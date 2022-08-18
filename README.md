@@ -23,5 +23,6 @@ content of the text editor has been saved with IndexedDB.
 subsequent pages and static assets.
 11. When the user deploys this application to Heroku.  The user should have proper scripts for a webpack application.
 
+## [text-editor-pwa](https://github.com/cefaust/text-editor-pwa)
 ## [working text editor on heroku](https://cefaust-text-editor-pwa.herokuapp.com/)
 ![text-editor-pwa](./images/text-editor-pwa.png)
